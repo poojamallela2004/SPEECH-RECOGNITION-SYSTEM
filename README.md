@@ -24,3 +24,4 @@ However, this method requires an active internet connection and depends on Googl
 
 
 #output
+<img width="1920" height="861" alt="Image" src="https://github.com/user-attachments/assets/6a351f6b-424d-4e32-8ccb-cf150b8bb4c3" />
